@@ -34,6 +34,8 @@
 
 **[Vet-Clinic]** is a project in which a relational database is used to create the data structure for a vet clinic.
 
+Vet Clinic Database Schema Diagram: [schemadiagramlink](https://drawsql.app/teams/adaracheldev/diagrams/vet-clinic-database)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
